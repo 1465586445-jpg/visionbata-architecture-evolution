@@ -1,4 +1,5 @@
-# visionbata-architecture-evolution
+# VisionBata Architecture Evolution
+
 Architecture evolution case study of VisionBata: an industrial vision inspection framework's journey from foundational refactoring to a full Pipeline ecosystem in 3 weeks — covering engine design, plugin system, protocol adapters, and TDD practices.
 
 ## Why Read This?
@@ -23,7 +24,9 @@ Architecture evolution case study of VisionBata: an industrial vision inspection
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate credit.
 
 ## Feedback & Contributions
 
